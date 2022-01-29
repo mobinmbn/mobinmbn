@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mobinmbn
 - 👀 I’m interested in coading.
-- 🌱 I’m currently learning android and python.
-- 💞️ I’m looking to collaborate on android project.
+- 🌱 I’m currently learning Django with python.
+- 💞️ I’m looking to collaborate on Django project.
 - 📫 How to reach me with "mobin.moghimi@gmail.com"
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mobinmbn)](https://github.com/anuraghazra/github-readme-stats)
 
