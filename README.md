@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mobinmbn
-- 👀 I’m interested in coading.
+- 👀 I’m interested in coding.
 - 🌱 I’m currently learning Django with python.
 - 💞️ I’m looking to collaborate on Django project.
 - 📫 How to reach me with "mobin.moghimi@gmail.com"
